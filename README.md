@@ -34,6 +34,14 @@ Once you changed README.md, click the button above.
 
 ---
 
+## Dataset used:
+
+For this part of the Amazing Race, you would be using the `names.json` file as your dataset
+
+## How to submit:
+
+After you found the password, return back to the `Amazing Race Website` to submit the password to not only recover the sacred BuildingBloCS logo (and bring everlasting happiness to BuildingBloCS land) but also to proceed on to the next stage
+
 ## Resources:
 
 - Check out the workshop materials at [https://tinyurl.com/bbcs20nosql](https://tinyurl.com/bbcs20nosql)
