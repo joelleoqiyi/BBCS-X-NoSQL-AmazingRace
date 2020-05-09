@@ -31,3 +31,11 @@ For Gitpod, the `.gitpod.dockerfile ` and `.gitpod.yml` files have already been 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/joelleoqiyi/BBCS-X-NoSQL)
 
 Once you changed README.md, click the button above.
+
+---
+
+## Resources:
+
+- Check out the workshop materials at [https://tinyurl.com/bbcs20nosql](https://tinyurl.com/bbcs20nosql)
+- Check out MongoDB Documentation for CRUD operations at [https://docs.mongodb.com/manual/crud/](https://docs.mongodb.com/manual/crud/)
+- Check out MongoDB Documentation for Pipeline Aggregation at [https://docs.mongodb.com/manual/reference/aggregation/](https://docs.mongodb.com/manual/reference/aggregation/)
