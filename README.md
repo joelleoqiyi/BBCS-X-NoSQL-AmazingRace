@@ -14,7 +14,15 @@ Based on the house CCTV footage and fingerprint evidence, the following deductio
 3) either female or male (no judgements...)
 ```
 
-Being the ONE AND ONLY data master (and person with logic) in BuildingBloCS land. Armed with all information about all civilians here (stored in the names.json file). Can you use the gathered evidence to find out what the password to the safe is? :sweat_smile:
+Being the ONE AND ONLY data master (and person with logic) in BuildingBloCS land. Armed with access to all information about all civilians here. Can you use the gathered evidence to find out what the password to the safe is? :sweat_smile:
+
+To gain access to information about all civilians, you would need to access BuildingBloCS Land's MongoDB cluster using the following URI/ connection string:
+```
+mongodb+srv://bbcs:amazingrace@cluster0-d9jjq.mongodb.net/test?retryWrites=true&w=majority
+```
+and access the following database and collection:
+- database: `suspects_database`
+- collection: `suspects_collection`
 
 The fate of BuildingBloCS land lies in your hands. :exclamation::exclamation::exclamation:
 
