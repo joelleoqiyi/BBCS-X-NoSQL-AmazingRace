@@ -54,6 +54,6 @@ After you found the password, return back to the `Amazing Race Website` to submi
 
 ## Resources:
 
-- **Check out the workshop materials at [https://tinyurl.com/bbcs20nosql](https://tinyurl.com/bbcs20nosql)**
+## Check out the workshop materials at [https://tinyurl.com/bbcs20nosql](https://tinyurl.com/bbcs20nosql)**
 - Check out MongoDB Documentation for CRUD operations at [https://docs.mongodb.com/manual/crud/](https://docs.mongodb.com/manual/crud/)
 - Check out MongoDB Documentation for Pipeline Aggregation at [https://docs.mongodb.com/manual/reference/aggregation/](https://docs.mongodb.com/manual/reference/aggregation/)
