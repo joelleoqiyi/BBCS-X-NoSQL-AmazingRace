@@ -26,7 +26,8 @@ and access the following database and collection:
 
 The fate of BuildingBloCS land lies in your hands. :exclamation::exclamation::exclamation:
 
-**Full answers would only be uploaded after the Amazing Race in this folder**
+
+## Check out the workshop materials at [https://tinyurl.com/bbcs20nosql](https://tinyurl.com/bbcs20nosql)
 
 ---
 
@@ -54,6 +55,8 @@ After you found the password, return back to the `Amazing Race Website` to submi
 
 ## Resources:
 
-## Check out the workshop materials at [https://tinyurl.com/bbcs20nosql](https://tinyurl.com/bbcs20nosql)**
+- Check out the workshop materials at [https://tinyurl.com/bbcs20nosql](https://tinyurl.com/bbcs20nosql)
 - Check out MongoDB Documentation for CRUD operations at [https://docs.mongodb.com/manual/crud/](https://docs.mongodb.com/manual/crud/)
 - Check out MongoDB Documentation for Pipeline Aggregation at [https://docs.mongodb.com/manual/reference/aggregation/](https://docs.mongodb.com/manual/reference/aggregation/)
+
+**Full answers would only be uploaded after the Amazing Race in this repository**
