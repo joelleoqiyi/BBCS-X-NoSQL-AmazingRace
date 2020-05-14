@@ -1,4 +1,4 @@
-# Storyline ... continued
+# Storyline ... [continued](https://github.com/joelleoqiyi/BBCS-X-NoSQL/blob/master/Part2/storyline.md)
 
 Our sacred BuildingBloCS logo has been stolen! In the workshop, you managed to uncover that `Jeannie Johnson` was the culprit, and the police officers in BuildingBloCS land have tracked down and caught her! :grimacing:
 
