@@ -35,7 +35,7 @@ The fate of BuildingBloCS land lies in your hands. :exclamation::exclamation::ex
 
 You can choose to do this in Gitpod or local or whatever platform you wish
 
-For Gitpod, the `.gitpod.dockerfile ` and `.gitpod.yml` files have already been configured, simply **fork this repo**, **edit README.md** and **change the `<username>` on line 39 of markdown to your Github username** such that you can click the button below to open Gitpod and start coding :laughing:
+For Gitpod, the `.gitpod.dockerfile ` and `.gitpod.yml` files have already been configured, simply **fork this repo**, **edit README.md** and **change the `<username>` on line 40 of markdown to your Github username** such that you can click the button below to open Gitpod and start coding :laughing:
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/<username>/BBCS-X-NoSQL-AmazingRace)
 
