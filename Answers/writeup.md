@@ -102,7 +102,7 @@ the character column in the table below is the special metacharacters you can us
 |Characters  |Description  |Examples|
 |--|--|--|
 |[ ] | A set of characters |"[A-M]"|
-|\|Signals a special sequence (can also be used to escape special characters)|"\d"|
+|\\ |Signals a special sequence (can also be used to escape special characters)|"\d"|
 |.|Any character (except newline character)|"he..o"|
 |^|Starts with|"^hello"|
 |$|Ends with|"world$"|
