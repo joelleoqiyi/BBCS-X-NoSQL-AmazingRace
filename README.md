@@ -35,7 +35,12 @@ The fate of BuildingBloCS land lies in your hands. :exclamation::exclamation::ex
 
 You can choose to do this in Gitpod or local or whatever platform you wish
 
-For Gitpod, the `.gitpod.dockerfile ` and `.gitpod.yml` files have already been configured, simply **fork this repo**, **edit README.md** and **change the `<username>` on line 40 of markdown to your Github username** such that you can click the button below to open Gitpod and start coding :laughing:
+If you are using gitpod, follow the following steps:
+1) **you would have to fork this repository!** Follow this "tutorial" to learn how to fork a repository: [https://help.github.com/en/github/getting-started-with-github/fork-a-repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
+2) **edit README.md (which is this file you are reading now)** Follow this "tutorial" to learn how to edit a file
+3) **change the `<username>` on line 41 of markdown to your Github username**
+4) **commit the changes you made** by scrolling down and click the `commit` button.
+5) return back to README.md and **click the button below to open Gitpod** and start coding :laughing:
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/<username>/BBCS-X-NoSQL-AmazingRace)
 
@@ -45,7 +50,7 @@ Once you changed README.md, click the button above.
 
 ## Dataset used:
 
-For this part of the Amazing Race, you would be using the `names.json` file as your dataset
+For this part of the Amazing Race, you would be using the `names.json` file as your dataset which is stored in the BuildingBloCS Land's MongoDB Cluster :laughing:
 
 ## How to submit:
 
@@ -59,4 +64,4 @@ After you found the password, return back to the `Amazing Race Website` to submi
 - Check out MongoDB Documentation for CRUD operations at [https://docs.mongodb.com/manual/crud/](https://docs.mongodb.com/manual/crud/)
 - Check out MongoDB Documentation for Pipeline Aggregation at [https://docs.mongodb.com/manual/reference/aggregation/](https://docs.mongodb.com/manual/reference/aggregation/)
 
-**Full answers would only be uploaded after the Amazing Race in this repository**
+**Full answers uploaded in the Answers folder in this repository**
