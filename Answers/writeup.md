@@ -102,7 +102,7 @@ the character column in the table below is the special metacharacters you can us
 |Characters  |Description  |Examples|
 |--|--|--|
 |[ ] | A set of characters |"[A-M]"|
-|\\|Signals a special sequence (can also be used to escape special characters)|"\d"|
+|\|Signals a special sequence (can also be used to escape special characters)|"\d"|
 |.|Any character (except newline character)|"he..o"|
 |^|Starts with|"^hello"|
 |$|Ends with|"world$"|
@@ -116,6 +116,7 @@ As such, if we want to check whether the first 4 characters are either `2017` or
 - `"^2017"`
 - `"^2018"`
 - `"^2019"`
+
 We would then need to look at the `$regex` evaluation query operator's syntax (we are going to ignore the `$options` parameter as we will not use it):
 ```
 { <field>: { $regex: 'pattern', $options: '<options>' } }
@@ -297,6 +298,7 @@ which... you haven't noticed is literally the criteria which almost everyone (ex
 Concatenating them together, we get the password to be `3213b5` :laughing:
 
 **Check out the python file nopipeline.py for a nosql solution to the problem above**
+
 **Check out the python file pipeline.py for a nosql solution USING PIPE AGGREGATION to the problem above**
 
 ---
