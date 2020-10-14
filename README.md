@@ -16,13 +16,7 @@ Based on the house CCTV footage and fingerprint evidence, the following deductio
 
 Being the ONE AND ONLY data master (and person with logic) in BuildingBloCS land. Armed with access to all information about all civilians here. Can you use the gathered evidence to find out what the password to the safe is? :sweat_smile:
 
-To gain access to information about all civilians, you would need to access BuildingBloCS Land's MongoDB cluster using the following URI/ connection string:
-```
-mongodb+srv://bbcs:amazingrace@cluster0-d9jjq.mongodb.net/test?retryWrites=true&w=majority
-```
-and access the following database and collection:
-- database: `suspects_database`
-- collection: `suspects_collection`
+To gain access to information about all civilians, you would need to access the required information. **Please look at the section on `Dataset used` below.**
 
 The fate of BuildingBloCS land lies in your hands. :exclamation::exclamation::exclamation:
 
@@ -50,7 +44,9 @@ Once you changed README.md, click the button above.
 
 ## Dataset used:
 
-For this part of the Amazing Race, you would be using the `names.json` file as your dataset which is stored in the BuildingBloCS Land's MongoDB Cluster :laughing:
+For this part of the Amazing Race, you would be using the `data.json` file as your dataset which is stored in the BuildingBloCS Land's MongoDB Cluster :laughing:
+
+Simply run the python file `insertData.py` after replacing `insert_uri_here` on line 6 with a **valid URI statement** from your MongoDB database *with write permissions* to add the data from `data.json` into your database. 
 
 ## How to submit:
 
