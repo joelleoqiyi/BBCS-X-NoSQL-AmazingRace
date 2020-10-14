@@ -39,7 +39,7 @@ pipeline2 = [
     {"$match":
         {"_id": {"$regex": "^5eb56"}}
     },
-    {"$count": "name"} #count the number of names, as each document is attached to a person with a name :) 
+    {"$count": "name"} #count the number of names, as each document is attached to a person with a name 
 ]
 #returns you a cursor object so need to iterate through result to get the actual values.
 result2 = collection.aggregate(pipeline2)
