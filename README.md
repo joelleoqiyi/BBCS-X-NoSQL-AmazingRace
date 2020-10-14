@@ -44,9 +44,9 @@ Once you changed README.md, click the button above.
 
 ## Dataset used:
 
-For this part of the Amazing Race, you would be using the `data.json` file as your dataset which is stored in the BuildingBloCS Land's MongoDB Cluster :laughing:
+For this part of the Amazing Race, you would be using the `misc/data.json` file as your dataset which is stored in the BuildingBloCS Land's MongoDB Cluster :laughing:
 
-Simply run the python file `insertData.py` after replacing `insert_uri_here` on line 6 with a **valid URI statement** from your MongoDB database *with write permissions* to add the data from `data.json` into your database. 
+Simply run the python file `misc/insertData.py` after replacing `insert_uri_here` on line 6 with a **valid URI statement** from your MongoDB database *with write permissions* to add the data from `misc/data.json` into your database. 
 
 ## How to submit:
 
